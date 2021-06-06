@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "my personal discord bot",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjfleung/discord-bot.git"
+  },
+  "author": "Terrence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjfleung/discord-bot/issues"
+  },
+  "homepage": "https://github.com/tjfleung/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
